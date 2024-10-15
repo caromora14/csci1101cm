@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>The Amazing World of Caro!!</title>
+
+    </head>
+    <body>
+         <!--little bit about me-->
+         <h1> Welcome to Carolina Morales' World</h1>
+         <h2>A little bit about me.</h2>
+        
+         <p>
+            I love food and dancing above all things. The bad thing about loving food so much is that I actually dont know how to cook.<br>
+            Anyway, my goal in this life is to be able to be happy on my own with my two dogs. Being able to take care of myself physically and financially.<br> Its a blessing to be living in this floating rock with lots of great people that make my day everyday. So no matter how bad you are feeling remember that there will always be better days.
+         </p>
+         <!--favorite food list-->
+         <h2> Some of my favorite dishes to eat</h2>
+         <p>I cant cook any of these but I am learning so hopefully my future partner and children will love my food. Or if I stay single forever at least I will know how to cook delicious foods that I can enjoy in my cozy home.</p>
+         <ol>
+            <li>Lasagna</li>
+            <li>Paella</li>
+            <li>Sushi</li>
+            <li>Yakisoba</li>
+            <li>Chilaquiles</li>
+            <li>Birria Tacos</li>
+         </ol>
+         <!--some decorations-->
+         <style> 
+            h2{ color:blueviolet}
+            body{background-color:seashell}
+         </style>
+         <!--image-->
+         <h2>Me if I were a cat</h2>
+         <img src="https://tse3.mm.bing.net/th?id=OIP.wpAgSeICiweY9D-j8lWSdQHaEJ&pid=Api&P=0&h=180" alt="black cat">
+
+         <!--Table of me-->
+         <h2>Caros table of fun facts:</h2>
+         <style>
+            table {
+            border-collapse: collapse;
+            width:100%;}
+            th, td { 
+                border: 1px solid black;
+                padding: 8px;
+                text-align: left;
+            }
+            th { background-color:pink}
+        </style>
+        <table>
+            <tr>
+                <th> Siblings</th>
+                <th> Doggos</th>
+                <th> Dance</th>
+            </tr>
+            <tr>
+                <td>Javier, Brother</td>
+                <td>Gansito, Male 8 years</td>
+                <td>Folklorico, 4 years</td>
+            </tr>
+
+            <tr>
+                <td>Ninfa, Sister</td>
+                <td>Rigo, Male 10 years</td>
+                <td>Latin Dancing, 8 years</td>
+            </tr>
+         </table>
+         <!--List of my profiles-->
+         <h3>Follow me on all platforms cause why not?</h3> 
+         <ul>
+            <li><a href=" https://www.instagram.com/caro_mora14/"target="_blank">Instagram</a></li>
+            <li><a href="https://x.com/caro_mora14"target="_blank">X</a></li>
+            <li><a href="https://github.com/caromora14"target="_blank">github</a></li>
+         </ul>
+    </body>
